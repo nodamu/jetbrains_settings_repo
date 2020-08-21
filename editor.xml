@@ -7,4 +7,11 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\boptimize\.b*" />
+    <filter name="Optimization">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
