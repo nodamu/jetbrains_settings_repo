@@ -3,7 +3,8 @@
     <option name="contrastMode" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="5905a98a:1737efcdaea:-8000" />
     <option name="version" value="5.2.0" />
   </component>
