@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:/Projects/devops/drools/Mastering-JBoss-Drools-6" />
+      </list>
+    </option>
+  </component>
+</application>
